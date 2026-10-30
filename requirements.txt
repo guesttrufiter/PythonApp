@@ -1,3 +1,5 @@
-flask==3.0.2
+# Core web framework for Python application
+Flask==3.0.2
+
+# Testing framework for automated unit tests
 pytest==8.0.0
-requests==2.31.0
